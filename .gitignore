@@ -17,5 +17,5 @@ lerna-debug.log
 /.nyc_output
 
 # dist
-packages/**/lib
-packages/**/tsconfig.tsbuildinfo
+#packages/**/lib
+#packages/**/tsconfig.tsbuildinfo
